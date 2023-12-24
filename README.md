@@ -52,10 +52,12 @@ Game Mechanics:
 ● Bird Behaviors:
 
    1. Encounter birds with randomized flight patterns, adding unpredictability to the gameplay.
-  2.Adapt to different species exhibiting varying speeds and evasive maneuvers.
+   
+   2.Adapt to different species exhibiting varying speeds and evasive maneuvers.
 
 ● Scoring System: 
 1.Earn points for each successful hit. 
+
 2.Strive for accuracy and consecutive hits to achieve a higher score
 
 DEVELOPING GOALS:- The primary goals for developing the Bird Killer Game in C++ are to create engaging core gameplay mechanics with precise controls and shooting, introduce diverse bird species with unique behaviors, implement an effective score tracking system, design progressively challenging levels, utilize console-based graphics for a visually appealing experience, conduct iterative testing for player feedback, and ensure clean and modular code with comprehensive documentation. The focus is on providing a balanced and enjoyable gaming experience while fostering learning and skill improvement in C++.
@@ -71,10 +73,11 @@ Learning Outcomes:-
     Optimized Coding Practices: Develop skills in writing efficient and optimized code, focusing on resource management and performance improvement.
 
 Submitted by: 
-=> MD. AZIZUL HAKIM
+ 
+ => MD. AZIZUL HAKIM
  Registration No: 2021331030 
 
-=>TOIYOB ALI 
+ =>TOIYOB ALI 
  Registration No: 2021331106
 
 "UNDISCIPLINED"
