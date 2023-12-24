@@ -7,7 +7,7 @@ Team: Team _undisciplined
 
 Title: Bird killing Game
 
-Overview The Bird Killer Game is a console-based adventure developed in C++, combining entertainment and programming practice. 
+Overview: The Bird Killer Game is a console-based adventure developed in C++, combining entertainment and programming practice. 
 Players take on the role of a skilled bird hunter with the objective of eliminating various bird species
 while navigating through challenging levels.
 
@@ -30,14 +30,16 @@ Key Features;
     2. Test your skills as you advance through the game's dynamically adjusting difficulty curve.
 
     Console-Based Graphics: 
-    ○
+    
     1.Immerse yourself in the game's environment with simple yet effective console-based graphics. 
     2. Experience the excitement of the hunt within the constraints of a text-based interface.
 
 Technical Details:
 
 ● Programming Language: C++ 
+
 ● Graphics Library: Console-based graphics for a minimalist and accessible visual experience. 
+
 ● Classes: Player, Bird, GameEngine, ScoreManager - encapsulating different aspects of the game logic
 
 Game Mechanics:
@@ -61,15 +63,18 @@ DEVELOPING GOALS:- The primary goals for developing the Bird Killer Game in C++ 
 Learning Outcomes:-
 
     C++ Mastery: Strengthen proficiency in C++ programming, applying language features and principles in a real-world project.
+    
     Game Development Fundamentals: Gain foundational knowledge in game development, including mechanics, player interaction, and dynamic difficulty design.
+    
     Algorithmic Problem Solving: Enhance problem-solving skills through the implementation of critical game features, such as collision detection and scoring systems.
+    
     Optimized Coding Practices: Develop skills in writing efficient and optimized code, focusing on resource management and performance improvement.
 
 Submitted by: 
 => MD. AZIZUL HAKIM
-Registration No: 2021331030 
+ Registration No: 2021331030 
 
 =>TOIYOB ALI 
-Registration No: 2021331106
+ Registration No: 2021331106
 
-UNDISCIPLINED
+"UNDISCIPLINED"
