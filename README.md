@@ -5,9 +5,9 @@ Course Code: CSE 150
 
 Team: Team _undisciplined
 
-Title: Bird killing Game
+Title: Bird hunting Game
 
-Overview: The Bird Killer Game is a console-based adventure developed in C++, combining entertainment and programming practice. 
+Overview: The Bird hunting Game is a console-based adventure developed in C++, combining entertainment and programming practice. 
 Players take on the role of a skilled bird hunter with the objective of eliminating various bird species
 while navigating through challenging levels.
 
