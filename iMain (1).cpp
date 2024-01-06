@@ -178,7 +178,7 @@ void iDraw()
 		iLine(bird_x + 70, bird_y + 865, bird_x + 85, bird_y + 865);
 		iLine(bird_x + 70, bird_y + 890, bird_x + 85, bird_y + 890);
 		
-		//
+		
 
 		//iLine(bird_x + 205, bird_y + 850, bird_x + 215, bird_y + 847);
 
@@ -204,7 +204,7 @@ void iDraw()
 
 
 		iLine(bird_x + 85, bird_y + 865, bird_x + 110, bird_y + 860);
-		//
+		
 
 		iLine(bird_x + 85, bird_y + 890, bird_x + 110, bird_y + 895);
 
@@ -409,7 +409,7 @@ void iDraw()
 
 
 			iLine(bird_x + 85, bird_y + 865, bird_x + 110, bird_y + 860);
-			//
+			
 
 			iLine(bird_x + 85, bird_y + 890, bird_x + 110, bird_y + 895);
 
@@ -530,7 +530,7 @@ void iDraw()
 
 
 			iLine(bird_x + 85, bird_y + 865, bird_x + 110, bird_y + 860);
-			//
+			
 
 			iLine(bird_x + 85, bird_y + 890, bird_x + 110, bird_y + 895);
 
@@ -1043,7 +1043,7 @@ void iDraw()
 		iText(770, 450, "PERFECT HEADSHOT:  +5 POINTS", GLUT_BITMAP_TIMES_ROMAN_24);
 	}
 	cout << ind << endl;
-	///////////////////////////////////////////////////////////////////////////////// obstacle part ////////////////////////////////////////////////////////////////////////////
+	
 	/**
 	iSetColor(255, 50, 30);
 	iFilledRectangle(obstacle_1_x, obs_1_height, obstacle_length, obstacle_width);
